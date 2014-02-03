@@ -1,0 +1,19 @@
+.wp-grass {
+
+position: relative;
+pointer-events: none;
+
+}
+
+.wp-grass > div{
+	position: absolute;
+	z-index: 999;
+	min-height: 600px;
+	top:-600px;	
+	left:0;
+	right:0;
+	background-image: url(../img/wp-grass.png);
+	background-repeat: repeat-x;
+	background-position: bottom;
+	background-size: 0%;
+}
