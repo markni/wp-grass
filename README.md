@@ -18,11 +18,11 @@ WP-Grass is a productive tool to motive you update your blog more frequently. Th
 
 ###Screenshots
 
-![](http://ps.w.org/wp-grass/assets/screenshot-1.jpg)
+![When blog is being inactive for a short period of time](http://nagi.ca/u/f2db0f9b5452.jpg)
 
 1. When blog is being inactive for a short period of time
 
-![](http://ps.w.org/wp-grass/assets/screenshot-2.png)
+![When blog is being inactive for a long period of time](http://nagi.ca/u/8d732d1d2cea.png)
 2. When blog is being inactive for a long period of time
 
 ###Changelog
